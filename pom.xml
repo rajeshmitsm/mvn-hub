@@ -13,7 +13,7 @@
   	<appengine.version>1.9.2</appengine.version>
   	<slf4j.version>1.7.1</slf4j.version>
   	<servlet.version>2.5</servlet.version>
-  	<junit.version>4.10</junit.version>
+  	<junit.version>4.13.1</junit.version>
   </properties>
   
   <dependencies>
